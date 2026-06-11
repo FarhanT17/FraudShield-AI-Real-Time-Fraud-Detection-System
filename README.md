@@ -108,10 +108,8 @@ Run the FastAPI backend
 
 Update API_URL with your IP
 
-<img width="1320" height="2868" alt="WhatsApp Image 2026-06-11 at 11 18 15 AM" src="https://github.com/user-attachments/assets/7a014ce2-b7e9-46ec-bd86-dfbd7f1e870f" />
-<img width="1320" height="2868" alt="WhatsApp Image 2026-06-11 at 11 20 12 AM" src="https://github.com/user-attachments/assets/1956cc15-02f1-440e-910d-db73e5953f7f" />
-<img width="1320" height="2868" alt="WhatsApp Image 2026-06-11 at 11 20 32 AM" src="https://github.com/user-attachments/assets/f2d5e72b-6e54-46c0-b595-e032fc220455" />
-<img width="1320" height="2868" alt="WhatsApp Image 2026-06-11 at 11 21 12 AM" src="https://github.com/user-attachments/assets/41a3435a-f104-45b8-a600-a3b1286f60b3" />
+<img width="1320" height="2868" alt="WhatsApp Image 2026-06-11 at 11 18 15 AM" src="https://github.com/user-attachments/assets/255f49dc-0ab5-4ed2-a6b8-3186274ce4ba" />
+
 
 
 
