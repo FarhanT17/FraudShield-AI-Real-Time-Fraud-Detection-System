@@ -108,8 +108,6 @@ Run the FastAPI backend
 
 Update API_URL with your IP
 
-<img width="1320" height="2868" alt="WhatsApp Image 2026-06-11 at 11 18 15 AM" src="https://github.com/user-attachments/assets/a39532a6-9376-4e4a-96b7-b7784e96df6e" />
-
 📄 License
 MIT
 
