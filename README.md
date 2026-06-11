@@ -114,6 +114,15 @@ MIT
 👨‍💻 Author
 Farhan Tariq
 
+Screenshots
+
+<img width="1320" height="2868" alt="WhatsApp Image 2026-06-11 at 11 18 15 AM" src="https://github.com/user-attachments/assets/c8f3b0ee-8d20-4692-be8c-8d62c1a682f7" />
+<img width="1320" height="2868" alt="WhatsApp Image 2026-06-11 at 11 20 12 AM" src="https://github.com/user-attachments/assets/699ad9ad-841f-4b7d-9e09-b8285a88050b" />
+<img width="1320" height="2868" alt="WhatsApp Image 2026-06-11 at 11 20 32 AM" src="https://github.com/user-attachments/assets/6deab945-a76e-46f1-91db-409ef4a7a564" />
+<img width="1320" height="2868" alt="WhatsApp Image 2026-06-11 at 11 21 12 AM" src="https://github.com/user-attachments/assets/99e0741d-b525-4129-a62d-c7ea06c87c7e" />
+
+
+
 MSc Cyber Security (Distinction) - Northumbria University
 
 https://www.linkedin.com/in/farhant17/
