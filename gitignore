@@ -1,0 +1,23 @@
+# dependencies
+node_modules/
+.expo/
+npm-debug.*
+*.log
+
+# build
+dist/
+build/
+*.apk
+*.ipa
+
+# OS
+.DS_Store
+Thumbs.db
+
+# env
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
