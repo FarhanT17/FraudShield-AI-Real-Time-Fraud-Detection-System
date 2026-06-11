@@ -111,16 +111,16 @@ Update API_URL with your IP
 ## 📱 App Screenshots
 
 ### Home Screen
-<img src="assets/HomeScreen.jpeg" width="300">
+![Home Screen](https://raw.githubusercontent.com/FarhanT17/FraudShield-AI-Real-Time-Fraud-Detection-System/main/assets/HomeScreen.jpeg)
 
 ### Result Screen
-<img src="assets/ResultScreen.jpeg" width="300">
+![Result Screen](https://raw.githubusercontent.com/FarhanT17/FraudShield-AI-Real-Time-Fraud-Detection-System/main/assets/ResultScreen.jpeg)
 
 ### History Screen
-<img src="assets/HistoryScreens.jpeg" width="300">
+![History Screen](https://raw.githubusercontent.com/FarhanT17/FraudShield-AI-Real-Time-Fraud-Detection-System/main/assets/HistoryScreens.jpeg)
 
 ### Analytics Dashboard
-<img src="assets/AnalyticsDashboard.jpeg" width="300">
+![Analytics Dashboard](https://raw.githubusercontent.com/FarhanT17/FraudShield-AI-Real-Time-Fraud-Detection-System/main/assets/AnalyticsDashboard.jpeg)
 
 📄 License
 MIT
