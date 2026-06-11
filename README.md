@@ -108,11 +108,6 @@ Run the FastAPI backend
 
 Update API_URL with your IP
 
-<img width="1320" height="2868" alt="WhatsApp Image 2026-06-11 at 11 18 15 AM" src="https://github.com/user-attachments/assets/255f49dc-0ab5-4ed2-a6b8-3186274ce4ba" />
-https://github.com/FarhanT17/FraudShield-AI-Real-Time-Fraud-Detection-System/blob/main/README.md#:~:text=2026%2D06%2D11%20at%2011.18.15
-
-
-
 
 📄 License
 MIT
