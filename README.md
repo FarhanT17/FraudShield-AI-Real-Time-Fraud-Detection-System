@@ -28,7 +28,7 @@ An end-to-end fraud detection system with React Native mobile app and FastAPI ba
 | Navigation | React Navigation (Stack + Bottom Tabs) |
 | Storage | AsyncStorage |
 | Location | Expo Location API |
-| Backend (optional) | FastAPI + XGBoost |
+| Backend | FastAPI + XGBoost |
 
 ## 📱 Screens
 
