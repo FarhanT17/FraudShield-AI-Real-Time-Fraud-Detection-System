@@ -121,4 +121,4 @@ https://www.linkedin.com/in/farhant17/
 
 https://github.com/FarhanT17/
 
-"https://farhantariq.vercel.app/"
+https://farhantariq.vercel.app/
