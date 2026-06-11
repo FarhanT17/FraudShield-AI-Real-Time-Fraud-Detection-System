@@ -108,21 +108,14 @@ Run the FastAPI backend
 
 Update API_URL with your IP
 
-## Home Screen
+## 📱 App Screenshots
 
-![Home Screen](assets/screenshots/home.png)
-
-## Result Screen
-
-![Result Screen](assets/screenshots/result.png)
-
-## History Screen
-
-![History Screen](assets/screenshots/history.png)
-
-## Dashboard Screen
-
-![Dashboard Screen](assets/screenshots/dashboard.png)
+| Screen | Screenshot |
+|--------|------------|
+| Home Screen | ![Home](assets/Home%20Screen.jpeg) |
+| Result Screen | ![Result](assets/Result%20Screen.jpeg) |
+| History Screen | ![History](assets/History%20Screens.jpeg) |
+| Analytics Dashboard | ![Dashboard](assets/Analytics%20Dashboard.jpeg) |
 
 📄 License
 MIT
