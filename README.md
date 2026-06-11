@@ -110,12 +110,28 @@ Update API_URL with your IP
 
 ## 📱 App Screenshots
 
-| Screen | Screenshot |
-|--------|------------|
-| Home Screen | ![Home](assets/Home%20Screen.jpeg) |
-| Result Screen | ![Result](assets/Result%20Screen.jpeg) |
-| History Screen | ![History](assets/History%20Screens.jpeg) |
-| Analytics Dashboard | ![Dashboard](assets/Analytics%20Dashboard.jpeg) |
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>🏠 Home Screen</b></td>
+      <td align="center"><b>📊 Result Screen</b></td>
+    </tr>
+    <tr>
+      <td><img src="assets/Home%20Screen.jpeg" width="300"></td>
+      <td><img src="assets/Result%20Screen.jpeg" width="300"></td>
+    </tr>
+    <tr>
+      <td align="center"><b>📜 History Screen</b></td>
+      <td align="center"><b>📈 Analytics Dashboard</b></td>
+    </tr>
+    <tr>
+      <td><img src="assets/History%20Screens.jpeg" width="300"></td>
+      <td><img src="assets/Analytics%20Dashboard.jpeg" width="300"></td>
+    </tr>
+  </table>
+</div>
+
+*FraudShield AI in action - Real-time fraud detection on mobile*
 
 📄 License
 MIT
